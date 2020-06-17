@@ -67,6 +67,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.aab
+<<<<<<< HEAD
 *.unitypackage
 
 # Crashlytics generated file
@@ -81,8 +82,16 @@ crashlytics-build.properties
 
 # Builds
 *.apk
+=======
+>>>>>>> 54047556b5849aa5660dbb0f1dbc123573cf94ae
 *.unitypackage
 
 # Crashlytics generated file
 crashlytics-build.properties
 
+# Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata//.bin*
+
+# Temporary auto-generated Android Assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*

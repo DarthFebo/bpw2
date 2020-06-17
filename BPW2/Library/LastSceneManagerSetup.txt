@@ -1,5 +1,5 @@
 sceneSetups:
-- path: D:/HKU/School/Jaar 1/Blok 3/building playful worlds/fee_runner/Assets/Level01.unity
+- path: Assets/Scenes/menuScreen.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
